@@ -10,6 +10,23 @@ We design and fabricate a soft robotic arm with a thick tubing backbone for stab
   <img src="figures/experimental_setup.png" alt="experimental_setup" width="250">
 </p>
 
+## Quick Start
+### Upload the Motor Control Code to Arduino
+```
+stepper_motors_overwrite_non_blocking.ino
+```
+### Collect Data
+```
+generate_trajectory.m
+collect_data.m
+get_ioput.m
+```
+### Control the Soft Robotic Arm using DeePC
+```
+experiment2_deepc_main.m
+experiment2_plot.m
+```
+
 ## Result
 <p align="center">
   <img src="figures/experiment2_1.jpg" alt="experiment2_1" width="200">
@@ -25,3 +42,4 @@ Please consider cite our paper if you find this repo is useful.
   journal={arXiv preprint arXiv:2510.08953},
   year={2025}
 }
+```
