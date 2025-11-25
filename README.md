@@ -5,9 +5,15 @@ We design and fabricate a soft robotic arm with a thick tubing backbone for stab
 
 ## Hardware Design
 <p align="center">
-  <img src="figures/hardware1.png" alt="hardware1" width="200">
+  <img src="figures/hardware1.png" alt="hardware1" width ="200">
   <img src="figures/hardware2.png" alt="hardware2" width="200">
-  <img src="figures/experimental_setup.png" alt="experimental_setup" width="200">
+  <img src="figures/experimental_setup.png" alt="experimental_setup" width="250">
+</p>
+
+## Result
+<p align="center">
+  <img src="figures/experiment2_1.jpg" alt="experiment2_1" width="200">
+  <img src="figures/experiment2_2.jpg" alt="experiment2_2" width="200">
 </p>
 
 ## Cite
