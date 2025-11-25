@@ -30,7 +30,7 @@ experiment2_plot.m
 ## Result
 <p align="center">
   <img src="figures/experiment2_1.jpg" alt="experiment2_1" width="200">
-  <img src="figures/experiment2_2.jpg" alt="experiment2_2" width="200">
+  <img src="figures/experiment2_2.jpg" alt="experiment2_2" width="175">
 </p>
 
 ## Cite
